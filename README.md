@@ -2,7 +2,7 @@ Trote Solidário
 
 Este projeto é dedicado ao Trote Solidário, um evento com o objetivo de ajudar a comunidade.
 
-Acesse o site: [INSIRA_SEU_LINK_AQUI]
+Acesse o site: https://andrerodriguues.github.io/Trote-Solidario/
 
 Como Contribuir
 Aqui você pode adicionar informações sobre como as pessoas podem contribuir ou participar do evento.
